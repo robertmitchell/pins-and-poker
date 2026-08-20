@@ -1,0 +1,48 @@
+[
+    {
+        "player_id"     : 96685118063,
+        "username"      : "Blaze",
+        "email"         : "blaze@pap.com",
+        "user_type"     : "user",
+        "auth_provider" : "apple",
+        "platform"      : "ios",
+        "is_social"     : "1",
+        "social_id"     : "84KgGeyOQPbm3da8fjUn3uZXB6yqRrxn",
+        "device_token"  : "3Xm4Qm1Tl0bflyYyDYyvozsOjR95sgRmKtF7zfxR"
+    },
+    {
+        "player_id"     : 70890313137,
+        "username"      : "Stalker",
+        "email"         : "stalker@pap.com",
+        "user_type"     : "user",
+        "auth_provider" : "apple",
+        "platform"      : "ios",
+        "is_social"     : "1",
+        "social_id"     : "mUoH8CJT9TsDVpSuPNGRlFnYAGyiKA5P",
+        "device_token"  : "BdlTLu1GuMq2e9rOvUJRVTEZEj7uswoee6zIeUeW"
+    },
+    {
+        "player_id"     : 52176117554,
+        "username"      : "sara_mod",
+        "email"         : "sara_mod@pap.com",
+        "phone"         : "1(234)-456-789",
+        "user_type"     : "moderator",
+        "auth_provider" : "apple",
+        "platform"      : "ios",
+        "is_social"     : "1",
+        "social_id"     : "cKaY01eVenzFGBtBUJ7j9d7LKJK2WpHG",
+        "device_token"  : "LTRIgpUPfAI6EDgMgfD71XvqjQ4CwQA7LO2TVPbE"
+    },
+    {
+        "player_id"     : 99285893640,
+        "username"      : "Angelina",
+        "email"         : "angelina@pap.com",
+        "phone"         : "1(987)-654-321",
+        "user_type"     : "moderator",
+        "auth_provider" : "apple",
+        "platform"      : "ios",
+        "is_social"     : "1",
+        "social_id"     : "IdPASo55iVr2PXBmUeVCfNJBuV9KASn0",
+        "device_token"  : "jWIguXZoFDoRWVJhNsIROY6HTMoQ3Vq8JtUPet47"
+    }
+]

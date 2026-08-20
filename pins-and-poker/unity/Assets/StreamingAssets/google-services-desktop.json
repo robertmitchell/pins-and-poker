@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541081883574",
+    "project_id": "pins-and-poker-1485f",
+    "storage_bucket": "pins-and-poker-1485f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541081883574:android:4a92bfe3a68c2167f9e717",
+        "android_client_info": {
+          "package_name": "com.fictivestudios.pinsandpoker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8OrO8GxUFSxEhp0pDhdesu1Elvttwa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

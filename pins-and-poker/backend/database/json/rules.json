@@ -1,0 +1,66 @@
+[
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "Strike awards the particular player a card",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "Spare awards the particular player a card",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "Minimum 1 card in hand to Minimum 5 cards in hand with interchangeable cards from onwards on a strike (new card before accepting would be visible to the user)",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "Minimum 1 card in hand to maximum 24 cards in hands",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "Joker (Wild Card) would be changed automatically to the card considering what client would need to make the winning pairs",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "If a split happens and 2 hands altogether make a spare, Than the spare rule would be implemented.",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "The moderator will have the ability to award any card to the any of the player",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "special",
+        "description": "The Moderator will have the ability to play the game of any user if he/she has any malfunctions on the phone or unable to use the phone.",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 1,
+        "type": "general",
+        "description": "1. Lorem Ipsum is simply dummy text of the printing and typesetting industry. 2. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 3. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 4. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+        "created_by": "admin"
+    },
+    {
+        "user_id": 4,
+        "type": "general",
+        "description": "1. Lorem Ipsum is simply dummy text of the printing and typesetting industry. 2. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 3. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 4. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+    },
+    {
+        "user_id": 5,
+        "type": "general",
+        "description": "1. Lorem Ipsum is simply dummy text of the printing and typesetting industry. 2. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 3. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 4. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+    }
+]

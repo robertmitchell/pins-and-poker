@@ -1,0 +1,4 @@
+[26-Dec-2024 18:01:27 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /home2/apimyprojectstag/public_html/games/pinsandpoker/app/Http/Controllers/Api/ProfileController.php on line 65
+[26-Dec-2024 18:01:27 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /home2/apimyprojectstag/public_html/games/pinsandpoker/app/Http/Controllers/Api/ScoreController.php on line 210
+[26-Dec-2024 18:01:27 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /home2/apimyprojectstag/public_html/games/pinsandpoker/app/Http/Controllers/Api/ScoreController.php on line 240
+[26-Dec-2024 18:01:27 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /home2/apimyprojectstag/public_html/games/pinsandpoker/app/Http/Controllers/Api/ScoreController.php on line 504

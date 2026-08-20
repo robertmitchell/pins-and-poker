@@ -1,0 +1,38 @@
+[
+    {
+        "league_id" : 1,
+        "rule_id"   : 1
+    },
+    {
+        "league_id" : 1,
+        "rule_id"   : 2
+    },
+    {
+        "league_id" : 1,
+        "rule_id"   : 3
+    },
+    {
+        "league_id" : 1,
+        "rule_id"   : 4
+    },
+    {
+        "league_id" : 1,
+        "rule_id"   : 7
+    },
+    {
+        "league_id" : 2,
+        "rule_id"   : 2
+    },
+    {
+        "league_id" : 2,
+        "rule_id"   : 3
+    },
+    {
+        "league_id" : 2,
+        "rule_id"   : 5
+    },
+    {
+        "league_id" : 2,
+        "rule_id"   : 8
+    }
+]
